@@ -24,7 +24,7 @@
     "etag": "^1.8.1",
     "express": "^4.16.4",
     "lokijs": "^1.5.6",
-    "morgan": "^1.9.1",
+    "morgan": "^1.11.0",
     "multistream": "^2.1.1",
     "mysql2": "^2.1.0",
     "rimraf": "^2.6.3",
